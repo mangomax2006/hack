@@ -10,3 +10,6 @@ https://github.com/apache/incubator-pegasus.git
 
 # Thief Raccoon
 https://github.com/davenisc/thief_raccoon.git
+
+# Fluxion
+https://github.com/FluxionNetwork/fluxion.git
