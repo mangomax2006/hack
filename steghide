@@ -114,3 +114,24 @@ wrote extracted data to "Penetration Testing.pdf".
                                                                                                                                                  
 ┌──(apma㉿kali)-[~/hack]
 └─$ 
+
+
+
+1️⃣ Method 1 — Hide data in a frame (image steganography)
+A video is just many images (frames). So you can hide the data in one frame.
+
+Step 1 — Extract frames
+Use FFmpeg:
+
+ffmpeg -i video.mp4 frames/frame_%04d.jpg
+This extracts frames like:
+
+frame_0001.jpg
+frame_0002.jpg
+Step 2 — Embed the PDF in a frame
+Use Steghide:
+
+steghide embed -cf frame_0001.jpg -ef secret.pdf
+Step 3 — Rebuild the video
+ffmpeg -framerate 30 -i frames/frame_%04d.jpg -c:v libx264 output.mp4
+Now the video contains a frame with hidden data.
