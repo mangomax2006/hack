@@ -13,3 +13,5 @@ https://github.com/davenisc/thief_raccoon.git
 
 # Fluxion
 https://github.com/FluxionNetwork/fluxion.git
+# claw code
+https://github.com/instructkr/claw-code.git
