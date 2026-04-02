@@ -19,3 +19,14 @@ https://github.com/instructkr/claw-code.git
 https://github.com/koala73/worldmonitor.git
 #system Prompt leak
 https://github.com/asgeirtj/system_prompts_leaks.git
+
+
+https://github.com/farhanashrafdev /90DaysOfCyberSecurity
+
+https://github.com/microsoft/Security-101
+
+https://github.com/bst04/CyberSources
+
+https://github.com/paragonie/awesome-appsec
+
+https://github.com/redhuntlabs/Awesome-Asset -Discovery
