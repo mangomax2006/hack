@@ -86,3 +86,14 @@ security)
 
 ======================================== END OF GUIDE
 ========================================
+
+
+2️⃣ Compress the PDF first (recommended)
+
+Reduce the PDF size.
+
+zip book.zip "The Art of Invisibility.pdf"
+
+Then embed:
+
+steghide embed -ef book.zip -cf bigimage.jpg
