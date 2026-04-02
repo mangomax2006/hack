@@ -20,7 +20,7 @@ https://github.com/instructkr/claw-code.git
 # world Monitor 
 https://github.com/koala73/worldmonitor.git
 
-#system Prompt leak
+# system Prompt leak
 https://github.com/asgeirtj/system_prompts_leaks.git
 
 # resource for cybersecurity 
