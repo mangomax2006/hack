@@ -40,3 +40,6 @@ https://github.com/HunxByts/GhostTrack.git
 
 # evilgnix
 https://github.com/kgretzky/evilginx2.git
+
+# toutatis
+https://github.com/megadose/toutatis.git
