@@ -46,3 +46,6 @@ https://github.com/megadose/toutatis.git
 
 # strom breaker 
 https://github.com/ultrasecurity/Storm-Breaker.git
+
+# setelite Desktop 
+https://github.com/calesthio/Crucix.git
