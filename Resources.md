@@ -55,3 +55,5 @@ Run this in your project folder (~/hack/Crucix):
 Then try again:
 :> npm run dev
 >
+# Zypheron 
+https://github.com/KKingZero/Zypheron-CLI.git
