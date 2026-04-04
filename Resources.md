@@ -49,3 +49,9 @@ https://github.com/ultrasecurity/Storm-Breaker.git
 
 # setelite Desktop 
 https://github.com/calesthio/Crucix.git
+< ✅ Fix it quickly
+Run this in your project folder (~/hack/Crucix):
+:> npm install express
+Then try again:
+:> npm run dev
+>
