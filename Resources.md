@@ -57,3 +57,6 @@ Then try again:
 >
 # Zypheron 
 https://github.com/KKingZero/Zypheron-CLI.git
+
+# Hacking resource 
+https://github.com/The-Art-of-Hacking/h4cker.git
