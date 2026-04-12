@@ -50,3 +50,38 @@ Saved 5 results into file wordpressfile.json.gz
 
 -(parallels kali-linux-2022-2)-[~]
 > gunzip wordpressfile.json.gz
+
+-(parallels kali-linux-2022-2)-[~]
+$ sudo apt install gedit
+[sudo] password for parallels:
+Reading package lists... Done
+Building dependency tree... Done
+
+parallels@kali-linux-2022-2)-[]
+$ gedit wordpressfile.json
+
+—(parallels© kali-linux-2022(~]
+$ host yahoo.com
+
+-(parallels kali-linux-2022-2)-[~]
+$ ping yahoo.com
+
+parallels®kali-linux-2022-2)-[~]
+$ shodan host 98.137.11.163
+80/tcp
+443/tcp
+SSL Versions: -SSLV2, -SSLV3, TLSV1, TLSv1.1, TLSV1.2, TLSV1.3
+
+(parallelskali-linux-2022-2)-[~]
+-$ shodan scan -h
+Usage: shodan scan [OPTIONS] COMMAND [ARGS]
+
+https://sub.domain.com/blog/artical/search?id=42
+
+(kalikali)-[~/Desktop/sql] 
+-$ dig axfr @10.10.10.123 friendzone.red
+<<>> DiG 9.18.0-2-Debian <<>> axfr @10.10.10.123 friendzone.red
+
+
+
+
