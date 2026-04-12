@@ -28,6 +28,25 @@ internet Scan the Internet for a specific port and protocol using the... list Sh
 protocols List the protocols that you can scan with using Shodan.
 status Check the status of an on-demand scan.
 submit
-Scan an IP/ netblock using Shodan.
+Scan an IP/ netblock using 
 
+-(parallels®kali-linux-2022-2)-[~]
+> shodan count wordpres
 
+(parallels© kali-linux-2022-2)-[~]
+> shodan count wordpress 
+555377
+
+parallels kali-linux-2022-2)-[~]
+> shodan download wordpressfile "wordpress 1.4.7"
+
+(parallels® kali-linux-2022-2)-[~]
+> shodan count wordpress 1.4.7
+
+(parallelskali-linux-2022-2)-[~]
+> shodan download wordpressfile "wordpress 1.4.7"
+Notice: fewer results were saved than requested
+Saved 5 results into file wordpressfile.json.gz
+
+-(parallels kali-linux-2022-2)-[~]
+> gunzip wordpressfile.json.gz
