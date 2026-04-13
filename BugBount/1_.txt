@@ -1,17 +1,17 @@
-1__
+# 1__
 1st we just run am Nmap scan
 > Nmap -A -F T2 ip -V
 T2 is slowing the scanning which is required to be undetected 
 
-2__
+# 2__
 directory scanning
 ffuf -w /usr/share/wordlists/dirb/common.txt -u http://tengt.htb/FUZZ -p 1
 
-3__
+# 3__
 seclists Download 
 git clone https://github.com/danielmiessler/SecLists.git
 
-4__
+# 4__
 https://www.shodan.io/
 > shodan
 for API Key 
@@ -83,9 +83,27 @@ https://sub.domain.com/blog/artical/search?id=42
 <<>> DiG 9.18.0-2-Debian <<>> axfr @10.10.10.123 friendzone.red
 
 
-5__
+# 5__
 (kalikali)-[~/Desktop/sql]
 > nslookup ww.google.com
+Server:          192.168.35.2
+Address:         192.168.35.2
+Non-authoritative answer:
+Name: ww.google.com
+Address: 142.250.191.132
+Name: ww.google.com
+Address: 2607: f8b0:4009:818:: 2004
+
+-(kalikali)-[~/Desktop/sql]
+> whois google.com
+
+# 6__
+
+-(kali@kali)-[~/Desktop/sql]
+> theHarvester
+
+(kali@kali)-[~/Desktop/sql]
+> theHarvester -d domain.com -b google
 
 
 
