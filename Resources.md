@@ -74,3 +74,6 @@ https://github.com/euphrat1ca/Smartphone-Pentest-Framework.git
 
 # Email OSINT 
 https://behindtheemail.com/
+
+# Open source Chromium Browser 
+https://github.com/fathyb/carbonyl.git
