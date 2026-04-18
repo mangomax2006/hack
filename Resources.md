@@ -77,3 +77,6 @@ https://behindtheemail.com/
 
 # Open source Chromium Browser 
 https://github.com/fathyb/carbonyl.git
+
+# Wuzen-Framework---Advanced-Mobile-Security-Research-Platform
+https://github.com/alby77689-design/Wuzen-Framework---Advanced-Mobile-Security-Research-Platform.git
