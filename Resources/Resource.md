@@ -8,3 +8,6 @@ https://github.com/bst04/CyberSources
 https://github.com/paragonie/awesome-appsec
 
 https://github.com/redhuntlabs/Awesome-Asset -Discovery
+
+# Hacking resource 
+https://github.com/The-Art-of-Hacking/h4cker.git
