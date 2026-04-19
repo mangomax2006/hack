@@ -58,14 +58,6 @@ Then try again:
 # Zypheron 
 https://github.com/KKingZero/Zypheron-CLI.git
 
-# Hacking resource 
-https://github.com/The-Art-of-Hacking/h4cker.git
-
-# Hacking Ai
-https://venice.ai/chat/Zk4wcXV
-
-https://hackerai.co/c/efffc355-45b2-41bf-a9f3-7c7ec5647ac5
-
 # All ai in single HTML
 https://github.com/elder-plinius/G0DM0D3.git
 
