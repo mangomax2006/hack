@@ -86,3 +86,6 @@ https://github.com/sunimakgoho-arch/WUZEN-MYTHOS-EDITION.git
 
 # Linux on phone 
 https://github.com/cloudaii/termux-linux.git
+
+# GeoSentinal
+https://github.com/h9zdev/GeoSentinel.git
