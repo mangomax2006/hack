@@ -1,1 +1,2 @@
-
+(kali©kali)-[~]
+$ wpscan -help
