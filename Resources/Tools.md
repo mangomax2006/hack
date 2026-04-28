@@ -67,5 +67,5 @@ https://github.com/h9zdev/GeoSentinel.git
 # microshark
 https://github.com/aaronjmars/MiroShark.git
 
-# Decryption <a autonomous red team>
+# Decryption "a autonomous red team"
 https://github.com/PurpleAILAB/Decepticon.git
