@@ -62,10 +62,10 @@ https://github.com/sunimakgoho-arch/WUZEN-MYTHOS-EDITION.git
 # Linux on phone 
 https://github.com/cloudaii/termux-linux.git
 
-# GeoSentinal
+# GeoSentinal "geospatial monitoring platform that tracks global movement"
 https://github.com/h9zdev/GeoSentinel.git
 
-# microshark
+# microshark "Universal Swarm Intelligence Engine"
 https://github.com/aaronjmars/MiroShark.git
 
 # Decryption "a autonomous red team"
