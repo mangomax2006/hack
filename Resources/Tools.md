@@ -8,7 +8,7 @@ https://github.com/umeshshinde19/instainsane.git
 # Pegasusa-proV2.7 "a hacking tool"
 https://github.com/apache/incubator-pegasus.git
 
-# Thief Raccoon 
+# Thief Raccoon "Windows Phishing"
 https://github.com/davenisc/thief_raccoon.git
 
 # Fluxion "hifi hacking "
@@ -20,24 +20,25 @@ https://github.com/koala73/worldmonitor.git
 # GhostTrack "ip location track,  phone no track , etc"
 https://github.com/HunxByts/GhostTrack.git
 
-# evilgnix
+# evilgnix "man-in-the-middle Attack tool"
 https://github.com/kgretzky/evilginx2.git
 
-# toutatis
+# toutatis "Extract info from email or insta"
 https://github.com/megadose/toutatis.git
 
-# strom breaker 
+# strom breaker "location using link"
 https://github.com/ultrasecurity/Storm-Breaker.git
 
-# setelite Desktop 
+# setelite Desktop "setelite Monitor "
 https://github.com/calesthio/Crucix.git
+
 < ✅ Fix it quickly
 Run this in your project folder (~/hack/Crucix):
 :> npm install express
 Then try again:
 :> npm run dev
 >
-# Zypheron 
+# Zypheron "AI-native offensive security CLI for real operator workflows"
 https://github.com/KKingZero/Zypheron-CLI.git
 
 # All ai in single HTML
