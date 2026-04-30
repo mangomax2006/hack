@@ -1,3 +1,4 @@
+# it is automated tool to find vulnerability 
 (kalikali)-[~]
 > sudo apt-get install dotdotpwn
 [sudo] password for kali:
