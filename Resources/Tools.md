@@ -73,3 +73,6 @@ https://github.com/PurpleAILAB/Decepticon.git
 
 # juice-shop "OWASP Juice Shop"
 https://github.com/juice-shop/juice-shop.git
+
+# DAMN VULNERABLE WEB APPLICATION
+https://github.com/digininja/DVWA.git
