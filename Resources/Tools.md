@@ -76,3 +76,6 @@ https://github.com/juice-shop/juice-shop.git
 
 # DAMN VULNERABLE WEB APPLICATION
 https://github.com/digininja/DVWA.git
+
+# Hacktricks "Your all-in-one cheat sheet for payloads, enumeration & attack logic"
+https://github.com/HackTricks-wiki/hacktricks.git
