@@ -105,3 +105,4 @@ Checking dependencies...
                                                                                                                                                              
 ┌──(root㉿kali)-[/home/apma]
 └─# 
+> sudo ani-cli --update
