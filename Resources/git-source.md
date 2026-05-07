@@ -84,3 +84,6 @@ https://github.com/The-Art-of-Hacking/h4cker.git
 
 # OnionSearch 
 https://github.com/megadose/OnionSearch.git
+
+# PentestGpt
+https://github.com/GreyDGL/PentestGPT.git
